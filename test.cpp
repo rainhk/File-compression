@@ -1,0 +1,1 @@
+// check repeated single bytes ex: aaaaaaaaaa
