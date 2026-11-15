@@ -1,13 +1,18 @@
-#ifndef LZ77_H
-
-#define LZ77_H
-
+#pragma once
 #include <vector>
 #include <cstdint>
 
-std::vector<uint8_t> lz77Encode();
+class LZ77{
+    private:
+    int offset = 0;
+    int length = 0;
+    char nextChar;
+    public:
+        std::vector<uint8_t> lz77Encode(
+            const std::vector<uint8_t>& input
+        );
 
-std::vector<uint8_t> lz77Decode();
-
-
-#endif
+        std::vector<uint8_t> lz77Decode(
+            const std::vector<uint8_t>& input
+        );
+};
