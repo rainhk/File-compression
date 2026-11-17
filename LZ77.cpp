@@ -18,60 +18,46 @@ std::vector<uint8_t> LZ77::lz77Encode(const std::vector<uint8_t>& input){
     // nextChar
 
     std::vector<uint8_t> output;
-    int tempMatch = 0;
+    int tempOffset = 0;
     int tempLength = 0;
     int offset = 0;
     int length = 0;
-    cout << "LZ77" << endl; // check the function is working
     for(int i = 0; i < input.size(); i++){
         if (i > windowSize){
             start = i - windowSize;
         }
         for(int j = start; j < i; j++){
 
-            // 처음 match 부터 몇개나 현재 i 까지 동일한지
-            while (true)
-            {
-                /* code */
-            }
-            
-            if(input[i] == input[j]){
-                if(tempMatch == 0){
-                    tempMatch = j;
-                }
+            int cnt = j;
+            int cnt2 = i;
+            tempOffset = j;
+            while (cnt2 < input.size() && tempLength < matchMax && input[cnt] == input[cnt2]) {
+                cnt++;
+                cnt2++;
                 tempLength++;
-                if(tempLength > length){
-                    length = tempLength;
-                    offset = tempMatch;
-                }
             }
-            else{
-                if(tempLength >= length){
-                    length = tempLength;
-                    offset = tempMatch;
-                }
-                tempMatch = 0;
-                tempLength = 0;
+            if(length < tempLength){
+                length = tempLength;
+                offset = tempOffset;
             }
+            tempLength = 0;
+            tempOffset = 0;
+
         }
-        cout << tempMatch << endl;
-        cout << tempLength << endl;
-        if(tempMatch == 0){
-            if(length > 0){
-                output.insert(output.end(), offset);
-                cout << offset << endl;
-                output.insert(output.end(), length);
-            }
-            else{
-                output.insert(output.end(), input[i]);
-            }
-            
+        if(length >= matchMin){
+            // match
+            output.insert(output.end(), 1);
+            output.insert(output.end(), i - offset);
+            output.insert(output.end(), length);
+            i = i+length-1;
+            length = 0;
+        }
+        else{
+            // literal
+            output.insert(output.end(), 0);
+            output.insert(output.end(), input[i]);
         }
         
-    }
-
-    for(auto i:output){
-        cout << i << endl;
     }
     return output;
 };
