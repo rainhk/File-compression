@@ -63,5 +63,26 @@ std::vector<uint8_t> LZ77::lz77Encode(const std::vector<uint8_t>& input){
 };
 
 std::vector<uint8_t> LZ77::lz77Decode(const std::vector<uint8_t>& input){
+    std::vector<uint8_t> output;
+    cout << "hello" << endl;
+    // literal 0
+    // match 1
 
+    // literal 이 1 일경우의수..
+    // 흠.. literal match 구분..
+    // literal 이 0 일수도있는데..
+
+    for(uint8_t i : input){
+        if(i == 1){
+            cout << "1" << endl;
+        }
+        else{
+            
+        }
+        
+        cout << i << endl;
+    }
+    cout << input.size() << endl;
+
+    return output;
 }

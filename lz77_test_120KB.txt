@@ -1,0 +1,1310 @@
+t6ay1omjvexxnpz3tcht5b0evu75d5d5y2mri8o8y01ue2frp3q69wgsiow9vcpvid9x7bwn6397s2wwewlx8d1jrtrkpqkapju9amcn5e9pnwi9uupfetj1
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+bbbaddbcddbfaafdbaacddbdbcbdafbdbaadacfedecadccdcdcbffdeeceedaabbdbaecdbffddeeabaab
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+sdg55cbnd7rjphj9nd743p5u6kh4v23y61ugi5nas1jngsu2fieca3nb9mnr4y2nadarhi5x9zfd3e5rh68xjsgtcxaudvgcafididaak17ypmzx88zigfi5
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+caddeebccffedbaaabbfdcbefecbefcfaeafffdddbbdbeeffaacdfdfbcebcebfcbaeeaaecedbfdddeec
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+a06jslih1vg78aiy3shbu84h8372yc6s2vrygisoubg8y2ltwbqcg6vimq72tg9um71j40mvgmjwpen7jhly5kfk4oymgulngk00vqje3avutq9v1wa010r2
+cffcadadebbffbeeeebdeaebddfaabbdebdebeffaabbcfbeadddcdafbfbbdcceacfaebeecaaaabbcbca
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+bccbdedccdfaecdcaccabdbacfbbebdeabffddddefafeadacbfdbbecfadbacebbeaefdaddbddfaaccaa
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+9z3ui6q2nwkulbi1seqffyhqx7y9p54p71tabgf7jgfiwyf7f9omnkqxc66egcuzshl9ybxo7m9s7ilm3za8t18fdk8nru6rzl21dzcslc6v31y1fif6tlw5
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+adcbcfabbbdbdfebfaddedffcacbebdcdcddeedffdafcfcdefbbfcdadecacfdabebeecfcaafafefeecc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+ep7sfpxl8jmyh0qooq9y61zsrccuvhrnsor47nlmd6rc39jp7fp0uoz528igh48spamfnrqo70s3wpwmcklf7leyhvxc7v2cz1hgbzrn09akrad4xol9bg2p
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+decaadfefbcacbaaaddfdaabfefcbefeacbebeeddafcedfcdbbbcadabaabcbbcadbfdcaeeeedbefeecc
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+edeadfbcedcdbcfbddbabaddddcaedbbfaaccaedfbbcfccedadaafacfebabbdbebafdedbebbfdbcecdc
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+6w50kvvtq9gptb2k1r27hegokwpvbxyqy3ozzx6w4tbtw9q9twjn7tadxi0vejn11wp3sqcvcy7ztjlifgxxvnlq9s0jw9eq6k6u87rlavredwqn7vmt87r9
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+fafdccaffcdacbabaaefadaeadecdfaceacfadbacaabdfbfbfcdcdadfceaeaaeccdbeebcecaeeaafeba
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+ghanesjl7xk67q5om472tbeteyy3cpxga0y3qc0a31x1xsnox7c8qru70trtaf996px6iloepdhgobx1v4t6davu9s7u3r562fbzb6elq74scgqo6picaw0q
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+bffccfceddaddfaffbbfeaacccadbfcaaaabefdfcfdcffaaffbaececfffbcdcbabbebeeadfffeeabfdf
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+bafdebafafdceacbcebdbbcdebefeefbbcddeeeaafbbebbfaedebccffbbdcfadbffdffcffafefafcdca
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+3wzqflbk7nuh8yfujumalfnqpmeyl0qqmp98ucau6aop0rgvy3j5yw2a522gzp057acl6f035wlx14m1e8xm4bcbtdjl35d2fimn1ki75kdjv96okvxs8mx3
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ebfcfffffbbaafefdacadeddefdbfeedbccbfbebfeebeafffcaffcfffddedeeebcfeaeedcffdcffdfce
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+v9rgerou08fw8pzola81hrzhdyfna708w20q8e9lwjeg7k4kri2vrc0g5b2riyhj5jky00n6b7lux3uf1ylvysnze1nfw8z79fgw3ojzl4jauoa6fugjwzcg
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+eecebcbdcdedeebbdaeeeaaccdafcbdaeaebaaaaccbdbafeffdfbebcfdcdfbfbafcfbbbffdfbabeddca
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+ddcbffbacabeeceacbdbdbfdbefbdebdffedebfbfadbaeaefbebceadbebdafffddedcddddccfecaacfe
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+upx5zrmgtlsnpzx84f8doqptlxcrbinjbr3ymy2r21scw5cvcdlacwx557btse4x7alklgj0otu0h5f8ib933lli3et414rtefnbn5m2ihbyqqhlik8khcji
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+dcfdcedebedcbacadcaddfeaabcefbddeddcbdafaddaeabcfabcadbabeeaaecbdfeecbbcdbeafaefbdd
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+oq0m6x2e6ft8q3o1o2bghjb64ck6pzmcwno2t6l4l4jy97hfuclq3c7yj9lsa11p66e60nd5k54l9moglbzpvyle1deomodajfqcurbm0izbv4ygwg8nypys
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+fedeeccedabcfacdefbddeceaafccdeabfbabbcedcaddeeadffaaccbfacdeaabffbcdfebadebfcdbcfa
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+cfefdacabfadfabdcbabffbcaacabcadcbcabecdbbaddeeffafffbcbecfaccacbefdabdbbddcbbdfadb
+xe3ebxd82a9koxs7i9gcn8nzy3nov3hadzuw95f4vhz4r8vmg2ck4jaq5jabtnbtipx5ke6rqxoh9rarpgl7cngsw96bd5mzixpy8202evosanzi4ad5z2oy
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+afbcceadaadacacbacfdcbefafafadeaaccffefbfdebbfbeccdaafdfdeeaaecfebccaaebabeafddbdcd
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+076f2gb3hp6c0h09ulfnzbf3usgliam6rqsen6qmxdyrz96paim4ho6j8cjz93i8o7qu6qrk3vozvlxqesbqtd2m9smnzbavqb48qk76wyxramqkfzrp1at7
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+bdadcbddddbefdefeaaaeffdbafeafdeafffaedcddbaefdecedfcaccbcabadabedccbeacceceaaefccf
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+r3ns5k4dpi8d026t9elkhy1738j1srb1b0jfilvyaxa2p7auwvm19wt4330g0i9ztoxtnh6gwiboj9wlj09xwp85jjptzvb4x12ezdftp5ipxbqqn8n6814v
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+beecbaefcabaebccdbdbaffebeabaadeceffaddfacabceacdffedadaffdcdaabbbdefbdcffddfcfcdea
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+x9vv6zx7fov1l4fg9ivrij7149ek5eumhimkt159obzm6hhduk5vw07kfpjfyoiw9gbhiq13f3w3p1n0wdsydm9gjn58ij2obd1qwiaga77s1ylij211bgwp
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+eafbacfcbfeafebdbbbdabbebfabbdadebaabccbfcdeaadddccdeeacddfddcfcfedafcdeadbabfedfcd
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+5nvv7zo1kwjfa8tum8a0b9riirdlqow3mp2ioj7oe9secdr7prv94han2m5frnvaujh53u3r65a56ybqtxeuqafkqttr0q4cjydmcaaxjgr7r0hjs25to59h
+baebbdacbdffcebfbfdcbfbacabdaecdddeeafbbffcccaeeefdaeaedbbbeffefafbbcfafbdeaeefbeeb
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+fafdeeaadeaaafcbefbccbeabdffdbaccafdecadebcdecddddafebeebfdecfaccbfdaafeafbcfacbbaa
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+24m8i1fhhb6qkyn6792amvea0yofzrkxzhpgakibd5ui1dxjxc2096k6f67t4xs0rpmjs3isfn7xgy64d1j68jvuczhg66kixkdgzkl4jqt0xynoqn7zusb6
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+fefbcfababadfafdfddcbcfadbbbfdeeedaceadafdffacaffabeaffdafbddeebdebdcebdfadababebfb
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+swq3qkomgvogg7tqo1dlxwe3cvsxjv24fcmnoh1amhxnql9rkyyxks9kp0kjba0qkby1sqkabjxcv7v8ayvvmgt7bl7e9vocjdrm1zewpzj368zf9it6t78o
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+fcdcbdecdccbbacdbffddebccacefdeecbeaaccefffcceaacdeedbabaedabcafdfaaffdabfcdbcbfffa
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+dcdedfbaccdebcfcfdccfeeafefdfdfeddcdbdfebbaaedeffedaefbbbadcdbabffccbddcefffdbdaade
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ehr64ykjcbx8146cgbh1pizq28p7d500czkfmppz2nsfu287q5xrokifubv8hl1k07xus71zwa0fetb8c4j5hfaq4dwf0u5heian3frc7pf1w8qeby7m7jvq
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+bafafbaaafbeaffefcceaadccfdcaafbbbdbfbccbfbfcbddbaaefbbbfcccfbffbdafeecabafcbdadaac
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+kkd2az5ysulwgz24gobtzzf298dod7dl9958s1m6umycm6v9y8idcrlut92zpdxi5ag0g7jq97hse1r9wstaff54sajlk9027n3xu54pqcn9ly9z9w11dlle
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ebcefdbdefbbffccadebacdbbbcbdffbdbaddfcedcbccdadaaffbbebfaffececddeeacfffeaaacaaffa
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+efdccdefaaadcbafeadfbdeefabebbfafbbacbfdadeeeefbaedfdaacbbaacdbcdaeffbdafbfbbcdedfd
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+785xgqnhh6ba4yenfmkxibsms4lkui53oreecow41r2abgxydc964hy7zfcfxa62xup4ugkbfgzz7h4dsissm4mpc4v8sqndbrutau9wdd8jo4li6h8d1tp6
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+dbffaccfafcedefcdfeffebbecacfbeddedcbbcabbdfffeacbcdcddcfdaeaaaccabcadacfdecdcdffba
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+jm1ox7tu5zp7p9wgkcdanahl75wwl57p5x3kwpuwmqgi7a642j5r3zp581cc3gu0hfrxn3sdjpffa1tegz3jlogkot1ssjxohs2yq25c3d9d3vnvzqdydbug
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+dadbacdbcfdbbeceebbceefdcafafffdbefbbebdafbdafffeecfbeeaeccbecdcecaccadacaffacfbbdf
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+aeadcacfebfcbdefdccaaeacfaaefbbfdebfefefdfdeeadebefbeddcdabfafebeaaaffeabfbfcdecaab
+abcabcabcabcabcabcabcabcabcabc
+wtdyem6tst45i37gjklsurdrgob4v7ray3uarm8kd4gv72r0zyl6az1wphjpn4tw4mpgsear1n9rxyqhqqtk01k9jxkd1xq846acupaglgfeuii9m3cca2lk
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+cceadddaeafadfeeebaefdfbbfefcbfccebccfefdfbcaecaaaabbbccccecfebdcbebaffdacdbbdebced
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+lqyhzglvmh1j99bli7hzuv2xc8yz20dlmzv6pt2bqtkb0hjlp5xe14br279k6gf2fhln1kavcag71eky7frfpixg5refz868d0fa0o9xcdpfztml2bsr31dd
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+bdbadcdfdfcacaefdcfeeecefbeacbbaececaefadeaecffcaefcdedeaeaedadfaacddcfcdcdfdaaebeb
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+cfebcecefebdcbffbcdcdacbfddbbedafdbddcfbdfecbbdefcaccfecffeebfccddeadbfcbcbbeeeeeed
+8ewqt50lh1szanqe2jnnczrfga7k2lgvkso11uunp5vecxuf9f5bvbpebpbehbrqid7zbqukuvthkx4zq9ij5dv7tf98pnnpiw510h9zl9akxvywb3ry883h
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+dfccebeecfdbccccedbacadabacdbdbafbbcddbbacbffffecbcbceaefefbbabfacbbefccdddecefdcfc
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+a0e8yf87gcab3wh0checisjc4sdr11o1d747w6xxll2x8rs94m1fy4lu771e6y909um3rgdgpks6dfj87ajhde91skdp73vtzuwimi79l99z2csshhfn5ehm
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+efadeabbcdbfbaebeffbddbceeeefddfdabdecbdfafeaccdedabeccbafdcfedeeabbebdffcbbfbcbaad
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+i72likady77iyguir26twpp59912w7hddt4b0l7ysktwh0q3pgunl308chl0f63stl9zxqfsi1utn01e5xkg2lnna2oq0a0rkwgp1o1bjtfarg4ixju8c5um
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+aadefadeabcfeffedbbbfcfcacdecebadafeaaaeedacfefaffcdcdedfaaabacafebcdcbecdefdbadfcf
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+9btikg4pawkjv6m3lk41kiljt93gf5gccd7dn7ffh1vwl41ijm51icwe08sdbykuzj3tqlbdz9aihbm4acq8c6je709d8y33pq83l240z30wi5d2x7xvh5k6
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+ebefdacdacbaececbdeefafcfceacbfefdcebdcbccdadcecefedeadabdfcacfcdbbbfdebcedeebccfed
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+4j29a89y0or535wo4s7b5959yzy63w9lxuj6w5p3so06giot02h3edcl3xd5st83kgm7aa0vqu29zuguy9y71cxz8pi1vyugmr0pgkmm453ep5h78wxm49cu
+adbbdfffebaadfbdacbeacebdaddebcbddacdadefbedcbfbcabeadceecafedefcefefddceafccaffaca
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+bcdfcbddfecbeadbaadceebceeccdddbeefecdbadabdbacbaedadaadbedafcffecddacbacfafdfbbaab
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+hq478aefhcpd0rqidznzofwm3nxuirws5qx9wdnxltev9i9r2yxihbaee5ewub80unwucyeksg6egt41hpus81muujdip6fzu3njuh089bnnktvpaeesfaxm
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+ffdecbfbebbaefbfdaedbdaecbefefbcdeabedfcedccdaefcbcccdeccfddbcabafefcaadebacfeacafa
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+7xvzkaeymj7mv1f4ptgzl36tfstwzhgue4c1eyzssw0hw984rhea5o9bli939w6ndfr1cxigrp4jq8ducvp43xlnd2byu8f138chujzt0wz2v0id2qovp51i
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+fbaeedddfaddeabcefdeacefcffeecceddbafeadeeceffcefcbeebfecbcbfdfbffcdeadefabddddeaeb
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+ddfddeeeaffaedffefecaaebdcccadfcbfacefeeceddfaacddbcaedfafecefaefdbcfcafeebeabcdfbf
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+97qaag11thwmx9yx41j476xr9rqt7hmo60l3rrdbf3xsyc5s047708mipfed0thl2phb0ghdr400k2q26trltjxq6z0xddacw2efstkdgwvdvhqslmq0on88
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+ccbcdaccaebffecedccaafbcdcebadcceabaaadcadfebfbaeddbfbbbcbdffabddccaafffdaecaddacbe
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+5v3nll372z8dh9enff5kq3r116zctgc8t0q81srvxwf2k84y4iiogix3jzpjndafanuvh99y3ubuyuwb5hzxfrac7my0q7zz7qcmek2klm72533oowq1whfl
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ecfffffabcecddbadcbfeabfadecfebbfdbdfeebfadcddbdfeacdffafccfddffdadcdccadcfaebbddea
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+efacdcafeceffacddfbceaffeadfcfdafafafdffaacdffcfaafbccbcdbcbecfeaaebdbfadcecfeffedc
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+9ex1bt79l9wlngu1cwjynv8ckw94vj64zkfv3oo64lk8wzrxzps3v0wgp302f39d8hsskhch1qglbxsb6k7ywnm295x2cfjs8sen9djl97myyrohlblvxht3
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+acceccdaeebbeffecbefedbedbedabdfdcebabedaebafecefbfaefbcbcacbbeecdbebafafddbfcfefdc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+pljk2ig7p4s8bz4jz1c3v1gnfipqte8v7xn2apnsbt4up5qbbapj1fz5dqihuzdric3p8cczu4e2ov0bx6lcx9twrlntxqxdkkme4uek5u5qupgct1r84lsc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+cadfdcbcfdafbefeefeecccadcccaeebeeffdbacaabcaecdbcfaceabcbbfffeadcfbdcfbeddefecaeed
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+edbebeeceaeecccdaceaceecccfefcfadbeddbcbaffafcddcdbaaafefbabbcbfaaeaaaebeeedafaaada
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+6m9oj6hvb2j0u8kwq1avvf3tegjabpind38noxly7ecy9ekszpam5yy79vkbd7oh8t2gitcbdgu00du85j7a07flhr64wqee0zmvbd18f8nv2q43r1y8f61o
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabedaebcecefeddedfffcdcefbdfbbbdcdbfefdefbfacfbcdecaccdffdaaedfddfafcbabbbeecdef
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+fi2gsfrywchz2vfgt4c0fvacck1lm9ekt8gec028hkw2omdk89y4zszhrdhknphverik6r2ubb66qxty101lwsjt6y4xhynafm5du0c8qtbvso4cklox0159
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+afcecfddcfaeeeaafbbceefadfcbaadfbbebfdfffffafbeaedbbbbcbbfecbfacebdcaadbeefddffcced
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+bdabebbbebcdebccbabaedafeaddddadcfbabbccdbbebdeeabfdeeeacddadbaddefafefcfadbbccafcc
+9o9yxx3z31mr8xfrg8el2wlqwpil2v62claka5iy63t36n35moeu0bczui43s84ybmedwyl5txu38ryu6rw552duhp8h0h7k7vq9336fzwkml92tapzgvam7
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+dcbfbbfeabdbfbbfeaaabedeeffedbaceaccafceebaaedefceafecbecbadecebdadbeadbfabfbdaecef
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+t3b5sor2szz3qzmx2827tty1lhie52rple62uketr7g9g4n1kc7zuxm38rv4ineqz0z6kbexvcc2fp961bqfqxxrs0d3wn4veeyl9rkjyd5dzz7t61xmxfui
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+dbdfbfedcefacffcfdbfaacbefeeafbaabcacfcefcfdcabfacdbdadbfedbcfeedefaaeaffeeeaffceda
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+ab29xlz3jryzp6teqmmtid10vmlchazwq01wm45h351ct5118w7gnidpprqu30wyxjmrewn97sjn2lb26a86nq37rzkq06tiz7as26v4mw22iy18unmkw4o7
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+cfeacecfaedebadeefcfafddabfabedcbfecbfefabaaaeefdaebadafddcfbdcfcdecfecceedaedecfdb
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+jwczkjmobclzsv7iik0psmtvbbbknoowlpl10hnv2gf4q0t2r5sq3q4v9h30fmyfoiq2jk5x09jf67ukjapuz0yfwfx5nsw1ixb49w1mspu4pnywt1x6bi88
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+bedbbdedbdbccdcedbbabaeeedabdcbaebaabbcbafddeefecdccdfbebaaffeedbfbcacacfbcbdaaaeac
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+6e90aksdlgx1pfz01t5zxz2zsq1d95nwijyf1s88tcaro33sxbh6vywdnf1ehewgqm84hqb3ovrwztw2ik32cc1kw4i1x73li59quz6xsrt3j5l0weckzt9n
+dfcbdfffdeeaceabeefbecedccafedcfcdebcfabfaebadedcefecaadcfedcbfdebcdeaaaceaccdbcfbd
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+bafedceacbfccfafdbfbbabfefeaedebafccbaecdfaeccabbebdaafecbadcbaefadafaceddcbeacdcfd
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+xy32qvs8w40m61j41mmei046k801nju5ktq8f6of58m6mjwgi9kkzefxwolojh49p3h3zk6v7phyon0sx1ge4jsgnurjgxd6udnhwl1deikljrgk4v2wklle
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+dbbcbccaaafcaddccbdcdccbafcfafaddcecdaaeaaadbbfcacabbdddaccdebacbbfedbabddfebbbeddf
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+f0n0sxv32znanonl11d8qwxyk6sxzhs1vmcon0e2ppsrzaqobibq46twuv8rkbqbf747xqtr0smtcnb20mwcfbps082l6s5omfgh4q5xl3pjktr4c0fijtpk
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+ffeabdffccebebbebceebabbbfbbbbfafacebdbcaecaedddcbdbdacbedfbbbbebccebdfdacbebfefada
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+cbbbdafeaacbdbbefcbffecdcfbdbbaaeedcfdcfcccfcaefecadbfdfaffbbfeddcccabdbeecfadcccad
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+3667tnjamh3tsa0f4n07huf912pmm7kcpdka1fcotnplfp91zby1zbo8fiwkfqe1nqahx2j1qb1ccccmj12znixyigcxg13tclp2h9mlc4p18zb6nkr13wku
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+bbefbfccacdacdfffbbdaecaebdefefbcebabbfafcbbebfdeacdafbdabdbcdcfbefcdcfbeebadbaffbe
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+tw6ptniq9g2l5wdir9vt5q44gh84tx8ehikd7rzh5dsrv4h9mxc0rbwltzhzdxkvfh9kpsfd9py4ploxkzwb2lno7a9o4lzkyfqarj27ljuilfakywvjs8ka
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+bbddcaabbbbdebacaceaafdbeedddfeabdbfcdfbeadecbbbbdbffdecbcebddbdbfdfcebebddacaeabfa
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+bbbdaafdcacbceacdbdbbfffaffcdfcedcaeeebaaefaffafdbbdcfaedecbdabfbbfedfaabfddbaaceea
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+ldsbdp28ifrg68s2nffdyfeltwozequzce2btvvtvaof776hz8ueg9s5oalc30renn4bl5j9crqwia8sbl9t8qa94033clu2nk4pb3oo8ptvko9ysu0jhbdm
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+bcdacfcebaedfadffcfbdecdefbfcdbdcddfecdffbfbbdedbecfafbdaebbabeffcbcafaffefdecdbfce
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+yskoegmpfm1o1mzv8jz8b91yv9s3beway2jnp06xunx0orm3yfag8xs0572cbi87z1fas6p5sgvpv754pg7wvk8ef36kpik34nevlnae1cwjr31q3phehdwk
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+feacfcfeedfacbefbcebafbeffeffbfdeaceecebeaaafeddeecfcebffaececbfeebeeaffdbbffaccaca
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+fdbbddabeadbfbeaedccccacccccdafbcecbefdaffccdcaccdfeafeddebbeebdebfbfdfcddddbefcbbb
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+rlbmxssnmc804vcvihgg6vxcajio6w5ro4sdo188vbsdiv8u2xrr1lm5x6mn2qpq678k9xyblxifcsuso0qace9tqxjno2mip8n3i5w9mfoqj50xlssp24sa
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+bdeefafbfddbbccbdfceaecdbafbaecfbfeafafaaacfdceaebcbbeaafdebacddbdfbaabdacffcddebff
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+301grmgdroaeqyxtp1flu5p2vhou0wy77he5p1v3mirctuwxghmu4n3xk03fa6atsx6sah4dw430e64tpne3ieos3a90ojtguutjhdcqionhwf52xok4pyhi
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+dbfebbdffdbebacfedaacaddcbbcacfafaddcaeccebfeffcfbfbfebcfbcaaaafcdecefacfffdcbedbcd
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+ecdcbdeaabbbcecfcccbaecdfcbbbedfcbbcdeadbdcffededafafcbeedbfdbcaeffbdacdbdcfbbaaffc
+1odlp1amsi1nktck0yzc9oqnsbci5r56z1auacdcvmmr073hg6jasyd5j24f533j3g7pf7h8b4pa8gw0aisdxwah705i3xv4up94vl5911fk4blfx4u6girv
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+dadeeaaaafddbbbbbbdaedbbaaeeebcddebdbebeeabffbdaaccaaaeccbdbcefceabdccbeeeebeafaeaf
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+rmph4l3cu1gicghktkeljtxsft2hio4jy6amy7b1x03npthab2i7pqkaj9493azhx9r1xko32iie089gj9m5cyj5sgrwh2zg247iar9bcqx391jcg5jf4nu6
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+dbcaeefceafdacdedecdadabaecaeafffbecfabdcbadcffdbfbbabbfbbcfbfcadcdbadfddfbbcdbcada
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+q46m6anszd07nxohpxza8zv2ghd6qbwyka0wcjw121kqkeux7js9rbvfevmngylxtc2g5kp6agmoswuuv0yhgbuavqzbifl98xicuppxl3i03e1ooj69d37i
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+edcdbcdbfadbeadbcfdeadfdaccceffaebbabadcebfdefbfbdfabaabfbcffbeddbbecebeafabdedbfec
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+bcn90cnipjf6abwcxcxfm7rkia3ud7wy88barlnutay9mq1b0huwb85j4tjkae25v9vk8r1se3164tg1b1bqprwb62g8uvo4fpr7ban1vw8n9sealn4vi7ll
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+dfbebcedcabdabaffafdacfebeefafcdaffaaeefeaddcbeacbdadcbebdfffaffefedcbdaaaafbaacfab
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+743e3shqxud306s6cjfv6moid0erf6t2yfwoo9hiquvpfxl8zk4qta7vbhtnxog39n2u3afqfk3danrnm0elilbpswdvevdhkvsqtnmctrb0ao3d52luuxtj
+ebeefdabaffecfddbafbebafadbcedbdcfefcbefdecaefdeaedcedddbbefdbccdbbeccdddeabcdaccbc
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+bdecdedadcecabdebaaffebdceaefefcdfbfafdefbebfbecfbfdcdeecadacbbdfaaabeadecdddcdadbd
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+b2db6xqk9rao4pin9koi17o86jdh1t7gdj0m1sqlcpw2yzrdt676b0vhekhn05kkvyynf2rzb9poovl4yi9tv3o8833cpx662mh5xph1loye0xomc23et5u8
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+dceabddbbddedddbaaefcdcaafbfdbaefccfcafeaeeddccdfdbddcbdfbdcefeaefbecfaeeeddbabdeac
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+rhe8c4ry35tidsnkbn7kyeg9jxoitve0qoei1jmpimrnfav3mirb006g3222w4jq58rhil9ile7dvg7w3cnacsn7796ev34fhb69e928mlpjm2pnyze9zv8p
+abcabcabcabcabcabcabcabcabcabc
+cabdaaafdcceafeabdfabbddadadcaeeccbcdbdbdbbbebeffaeaffcdefdeeeecdefbdebeaffbdedffdc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+dceabddfcedbeeaefbcbebdaaddfcafcbcfdeaaccdfdeaafdbafafadbdbbfeecdcbfbdfdbcffbeaebcf
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+3487pvef1ssrifsykqi07x51awc8mq7cebo53jib15ca7008wrj1a0im1s0jnlixfhm7w04jgeoa33ugmnea65gm7wbd1jsvzzg08k3fkndligue5gthd2v3
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+feebdfeaccdeaedccadafddcefeaabebeadeddedbdddafabebeeebfeafdfcfefedfadbdcffcddbfdabf
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+czqnikv740zb8je03oq51ml8zwl2c6j7dskg7plnbjcsijc4g2458rucfga1r2t3mlvwf8zs60waqfznto194ohrmjvro4nt4j808yt1c2k1j1v5h0az97y0
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+bcccfbbddbbadcaefcdbaecdadebedafbaedcfffceaefeeabcfbdebaeabfcefdfeecdceabfcebcaeddc
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+ceadabbdbecdddaeaeacddddeecfacccbdcdeefbcffccdcddbbefeacabfedbeefcbbcacbcfafedacaaf
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ayouxrjqvxqw8av08rzk4utu3hnp3kb38ixdw6dyrjq3qeezyco001aiks6a9978s7ms7rz505f8xjutcxedjf1ii2201z3r47uq5t5xvpccyets0z07229f
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+dfceeaebdaebdbcebdadbbbfedddabaaaaeaafdbfdabddfeeabbeefebaeabdeacedeeffdfeccdccfbad
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+7q9drbzbb5pcy9f033pwreka13jkh0n6quvqrlvto25bmecomzicn1qnxfqrnozbk322inxxdyhmh3dxn6txfwj3da9fkta5rjt9sxl5q2nrqg7rdn98fmns
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+dbefbfdeffebeddafdacecffbbbcbccccfcdfceabaffeecfacdeecaeefacdcadbddcbafeeabfffffafd
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+bfefdacaefaccecbdfffbbccbcabdeafbadafbdbebaabfafedefddbcafceaebffdcabccdfdfeaadcfdd
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+7bjbyma8o9boebfqnj12geqpuxk4iokb692a1rq4fv96wawrxdm791xo15bbxhr3h9i5me4k7q7wovplw8y5fj9j4klk81f5pmgwe9tkr1ha0wi83ew8f7pu
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+baedcebccbdccbdfafaaaddefcaecfbfeabfbabfbceccafdacccabfeccefbebfaafbfddeaefaebcfffc
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+l8usf177ulc4ppzzid8sj4pu7j18mcm9o5czsdph3jdajy86oaey2u7lwoh5ptnu6m8t29k5ufizf2kzvpi8vqjtp6udiubyjn6u0c6m1s6xm9qzmkust0h4
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+cdaddabceabcbceecdabbcdfaceecdefeaccdcceedfddeadbacffbebdadcadddfdebedbefdceefafbae
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+fecdeaedadafccccecaacfcaffbfccdbcafeadcddedacabfbaaccfacbefbaabedfbacdfcaaaebfebfaf
+hs70i9o3n6wie6dhc5qrp3tomec2gq44j26nv6ansov83tj26c0ajrefjggf13z8ge1cp6eqivrx5hm1vfup9nctut8xb9gfitw5xgkrd16bnyids42rl1rz
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+afeefdaaacbdfafbedadacdeeabccfcfeaccfceceeebfddbbfafcdbefaffdcaffdcaadfeefebabbcbcd
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+y47o27r42estb5bdv3cqohei84mkn3843q35884qy4t51p9ma758mlr9znh5rri70o34pnggkwai3nec71kxw9bccl4ild7702cxdycuvtxjtykohs1duywe
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+faadacafacfbeeccadfecaebebdedaedcddcbcaaedddfdadefffdebfcdbdccefcfacbabffcabaebbfea
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+z8kx7chtn9hv513gs3nyf6nu5opjve33ztkfh8cf70sd4kj83tv961uj4xusrid9zbnaxpr4pxv60zowy7q2o5rcwbu2qre05x0vg3vqno84flyuqrab5wl2
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+adcecbdaeffcfeeaecebceaecaabcadaeeebffcbfaaadedeeceeabcdfebdbfcedddfebdeedbaacaeafa
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+z7hm9b0oigiszb18tbcu5vxu6lqh84zot4p9ao3962ezc4skubv5z4tsluez551sevo9wdu1e9hz2l7tt14431v9zhl6y42tt1prz5t3le6nnixxp8y7ahbq
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+fcddecefdabefddeeafcebbafeedefadaeaaadabcadcfffdefcaffdfcdcadcffabcbdbfecedbabddeca
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+bf7newl6t2mxpgy8crow9na37sif5a4qowc7xlo2ak06t8tzfv2h8o9h7zlkiim2a3rp52r3ic2auqi62qh7jt9o7ig7iwsfrri36x5bjb2sycpn70zbbffx
+cafbdacaccceadfecfddffaaeedfaeeceedcdafcfacaacaabdfedacbffeeaeeabcbfbcfaeaaffdfdbaf
+abcabcabcabcabcabcabcabcabcabc
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+bdeccfbefbedcaabffadfeeebcdedfacabbecabaceeebbeadfefaabadacfdcedeaceeebdbabaaeebaba
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+9un4m5zuagunkm8eb1ponlbg31ajyddik7nsu5they5jl1ub4eeglrp5ewswj7ijjamznpdthyi10x2hsg160502yjjdujofr7egowjvnpmtn0hzcoj05f2y
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|repeat_me_12345|
+abcabcabcabcabcabcabcabcabcabc
+aaaadcfffdfcafbaafaebdceaeccecdacfdffbecddfdbfcdadadcacaacdcccfbbcecefebaadceacceaa
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+An LZ77 match stores a distance and a length instead of repeating the same sequence of bytes.
+Huffman coding assigns shorter codes to symbols that appear more often in the encoded input.
+abcabcabcabcabcabcabcabcabcabc
+abcabxabcabcabxabcxyzabcabxabcabcabxabcxyzabcabcabcabc
+ERROR: file header missing. ERROR: file header missing. ERROR: file header missing.
+The compressor reads a sequence of bytes and searches the previous window for the longest match.
+repeat_me_12345|repeat_me_12345|repeat_me_12345|
