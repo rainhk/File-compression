@@ -26,20 +26,20 @@ vector<uint8_t> readFile(const string& filename) {
 int main() {
     LZ77 lzcompressor;
 
-    std::vector<uint8_t> input = {
-    0b01100001,  // a
-    0b01100010,  // b
-    0b01100011,  // c
-    0b01100001,  // a
-    0b01100010,  // b
-    0b01100011,  // c
-    0b01100001,  // a
-    0b01100010,  // b
-    0b01100011   // c
-    };
+    // std::vector<uint8_t> input = {
+    // 0b01100001,  // a
+    // 0b01100010,  // b
+    // 0b01100011,  // c
+    // 0b01100001,  // a
+    // 0b01100010,  // b
+    // 0b01100011,  // c
+    // 0b01100001,  // a
+    // 0b01100010,  // b
+    // 0b01100011   // c
+    // };
 
     // 1. 파일을 Binary로 읽기
-    // vector<uint8_t> input = readFile("lz77_test_120KB.txt");
+    vector<uint8_t> input = readFile("lz77_test_120KB.txt");
 
     cout << "Original size: "
          << input.size() << " bytes\n";
@@ -51,6 +51,10 @@ int main() {
          << output.size() << " bytes\n";
 
     vector<uint8_t> output_2 = lzcompressor.lz77Decode(output);
+
+    if(input == output_2){
+        cout << "correct" << endl;
+    }
 
     return 0;
 

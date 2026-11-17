@@ -47,7 +47,21 @@ std::vector<uint8_t> LZ77::lz77Encode(const std::vector<uint8_t>& input){
         if(length >= matchMin){
             // match
             output.insert(output.end(), 1);
+            if((i-offset)>255){
+                int big = (i-offset) / 256;
+                output.push_back(big);
+            }
+            else{
+                output.push_back(0);
+            }
             output.insert(output.end(), i - offset);
+            if((length)>255){
+                int big = length/ 256;
+                output.push_back(big);
+            }
+            else{
+                output.push_back(0);
+            }
             output.insert(output.end(), length);
             i = i+length-1;
             length = 0;
@@ -72,17 +86,25 @@ std::vector<uint8_t> LZ77::lz77Decode(const std::vector<uint8_t>& input){
     // 흠.. literal match 구분..
     // literal 이 0 일수도있는데..
 
-    for(uint8_t i : input){
-        if(i == 1){
-            cout << "1" << endl;
+    for (int i = 0; i < input.size(); i++){
+        if(input[i] == 0){
+            i++;
+            output.push_back(input[i]);
         }
         else{
-            
+            int literal = input[i++];
+            // offset1 * 256
+            int offset_1 = input[i++];
+            int offset_2 = input[i++];
+            // length_1 * 256
+            int length_1 = input[i++];
+            int length_2 = input[i];
+            int outputSize = output.size();
+            for(int j = 0; j < (length_1*256+length_2); j++){
+                int totalOffset = offset_1*256 + offset_2;            
+                output.push_back(output[outputSize-totalOffset+j]);
+            }
         }
-        
-        cout << i << endl;
     }
-    cout << input.size() << endl;
-
     return output;
 }
