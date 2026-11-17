@@ -78,7 +78,6 @@ std::vector<uint8_t> LZ77::lz77Encode(const std::vector<uint8_t>& input){
 
 std::vector<uint8_t> LZ77::lz77Decode(const std::vector<uint8_t>& input){
     std::vector<uint8_t> output;
-    cout << "hello" << endl;
     // literal 0
     // match 1
 

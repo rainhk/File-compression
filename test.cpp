@@ -1,60 +1,80 @@
+
+#include "LZ77.h"
+
+#include <iostream>
 #include <vector>
+#include <cstdint>
+#include <string>
+#include <stdexcept>
+#include <iostream>
+#include <fstream>
 
-// check repeated single bytes ex: aaaaaaaaaa
+using namespace std;
 
-// lz77 sample ourput
-// Literial = 00000000
-// Match = 00000001
-std::vector<uint8_t> lz77Output1 = {
-    0b00000000, 0b01001000,  // H
-    0b00000000, 0b01100101,  // e
-    0b00000000, 0b01101100,  // l
-    0b00000000, 0b01101100,  // l
-    0b00000000, 0b01101111,  // o
-    0b00000000, 0b00100000,  // space
-    0b00000000, 0b01000011,  // C
-    0b00000000, 0b00100000,  // space
-    0b00000000, 0b01010111,  // W
-    0b00000000, 0b01101111,  // o
-    0b00000000, 0b01110010,  // r
-    0b00000000, 0b01101100,  // l
-    0b00000000, 0b01100100   // d
-};
+vector<uint8_t> readFile(const string& filename) {
+    ifstream file(filename, ios::binary);
 
-std::vector<uint8_t> lz77Output2 = {
-    0b00000000, 0b01100001,  // Literal(a)
-    0b00000000, 0b01100010,  // Literal(b)
-    0b00000000, 0b01100011,  // Literal(c)
-    0b00000001,              // Match
-    0b00000000, 0b00000011,  // Distance = 3
-    0b00000000, 0b00000110   // Length = 6
-};
+    if (!file) {
+        throw runtime_error("Cannot open file: " + filename);
+    }
 
-    // std::vector<uint8_t> test = {
-    // 0b01100001,  // a
-    // 0b01100010,  // b
-    // 0b01100011,  // c
-    // 0b01100001,  // a
-    // 0b01100010,  // b
-    // 0b01100011,  // c
-    // 0b01100001,  // a
-    // 0b01100010,  // b
-    // 0b01100011   // c
-    // };
+    vector<uint8_t> data(
+        (istreambuf_iterator<char>(file)),
+        istreambuf_iterator<char>()
+    );
 
-    // std::vector<uint8_t> test = {
-    // 'a', 'b', 'c', 'a', 'b', 'x',
-    // 'a', 'b', 'c', 'a', 'b', 'c',
-    // 'a', 'b', 'x', 'a', 'b', 'c'
-    // };
+    return data;
+}
 
+void testLZ77(
+    const string& name,
+    const vector<uint8_t>& original
+) {
+    LZ77 lzcompressor;
+    auto compressed = lzcompressor.lz77Encode(original);
+    auto restored = lzcompressor.lz77Decode(compressed);
 
-    // std::vector<uint8_t> test = {
-    //     'a','b','c','a','b','x','a','b','c',
-    //     'a','b','c','a','b','x','a','b','c',
-    //     'x','y','z',
-    //     'a','b','c','a','b','x','a','b','c',
-    //     'a','b','c','a','b','x','a','b','c',
-    //     'x','y','z',
-    //     'a','b','c','a','b','c','a','b','c','a','b','c'
-    // };
+    if (original != restored) {
+        throw runtime_error("LZ77 test failed: " + name);
+    }
+
+    cout << "[PASS] " << name
+         << " | Original size: " << original.size()
+         << " | Compressed size: " << compressed.size()
+         << '\n';
+}
+
+void runTests() {
+    cout << "\n=== LZ77 Tests ===\n";
+
+    testLZ77("Empty", {});
+
+    testLZ77("Single byte", {'a'});
+
+    testLZ77("Simple repetition", {
+        'a', 'b', 'c', 'a', 'b', 'c'
+    });
+
+    testLZ77("a repetition", {
+        'a', 'a', 'a', 'a', 'a', 'a'
+    });
+
+    testLZ77("Overlapping match", {
+        'a', 'b', 'c', 'a', 'b', 'c',
+        'a', 'b', 'c', 'a', 'b', 'c'
+    });
+
+    testLZ77("Binary values", {
+        0, 1, 2, 255, 0, 1, 2, 255
+    });
+
+    testLZ77("Repeated byte",
+        vector<uint8_t>(1000, 'a')
+    );
+
+    testLZ77("File read" ,{
+        readFile("lz77_test_120KB.txt")
+    });
+
+    cout << "=== All LZ77 tests passed ===\n\n";
+}
