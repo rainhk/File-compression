@@ -44,6 +44,27 @@ void testLZ77(
          << '\n';
 }
 
+void testCompressor(
+    const string& name,
+    const vector<uint8_t>& original
+) {
+    LZ77 lzcompressor;
+    // add huffman encoder here
+    auto compressed = lzcompressor.lz77Encode(original);
+    // add huffmand decoder here
+    auto restored = lzcompressor.lz77Decode(compressed);
+    
+
+    if (original != restored) {
+        throw runtime_error("LZ77 test failed: " + name);
+    }
+
+    cout << "[PASS] " << name
+         << " | Original size: " << original.size()
+         << " | Compressed size: " << compressed.size()
+         << '\n';
+}
+
 void runTests() {
     cout << "\n=== LZ77 Tests ===\n";
 
@@ -72,8 +93,20 @@ void runTests() {
         vector<uint8_t>(1000, 'a')
     );
 
-    testLZ77("File read" ,{
+    testLZ77("File read 1 : lz77_test_120KB.txt" ,{
         readFile("lz77_test_120KB.txt")
+    });
+
+    testLZ77("File read 2 : alice29.txt" ,{
+        readFile("cantrbry/alice29.txt")
+    });
+
+    testLZ77("File read 3 : cp.html" ,{
+        readFile("cantrbry/cp.html")
+    });
+
+    testLZ77("File read 3 : kennedy.xls" ,{
+        readFile("cantrbry/kennedy.xls")
     });
 
     cout << "=== All LZ77 tests passed ===\n\n";
